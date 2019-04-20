@@ -1,0 +1,34 @@
+Ziki like a distributed social network like facebook - the ui itself is the admin, there is no separate admin interface.
+
+The platform owner, once logged in, can edit and view timeline. The users can only comment on that persons posts, they do not see how own timeline
+Think of it like facebook - if you are looking at my profile, you do not see my timeline
+I only see my own timeline when I am logged in on my own account.
+
+if ziki is installed on markessien.com, going there you see my posts. If you want to comment, you log in to comment
+if I log in, because it is my own site, I see a timeline of people I am following.
+I can follow via RSS feed or I can follow any other ziki site.
+
+The owner just has an additional link called Timeline. All the rest is the same, It's like your own personal facebook.
+
+Owner need a place to manage who you are following.
+when logged in owner can see Followers and Following page.
+
+If disqus is being used, there is no need to login using ziki then login is reserved for site owner.
+
+
+so think of it this way, instead of tweeting on twitter, you tweet on your own personal website. Others see it on their own timeline on their own person websites too.
+
+you can choose to make your timeline visible or not, by default  it is visible, but you can hide it.
+It should be accessible by owner clicking to see who a user follows.
+
+
+
+Guest visits markessien.com and sees the posts that Mark Essien has been writing.
+If he tries to comment, he gets a log in prompt
+When mark essien visits markessien.com, and logs in, he sees a timeline of what he is following
+
+each site only has one user: the owner of the site.
+
+every other person is a guest, looking at what that person has been writing, just like  looking at someones blog
+
+so if you want your own ziki site you visit hng.tech/ziki and download a copy of ziki and install on your own server.

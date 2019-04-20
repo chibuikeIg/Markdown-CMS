@@ -1,0 +1,15 @@
+{
+    "demo":{
+        "name":"demo",
+        "slug":"demo",
+        "posts":["lorem-ipsum"],
+        "content" :"category dfdsfsdfsdfescription. Markdown supported"
+    },
+
+    "test":{
+        "name":"test",
+        "slug":"test",
+        "posts":["lorem-ipsum","ipsum-lorem"],
+        "content" :"category description. Markdown supported"
+    }
+}
