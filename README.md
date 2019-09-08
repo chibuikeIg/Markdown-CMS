@@ -1,4 +1,4 @@
-# almostFlatFileCMS
+# Flat File Blog
 ## This project is named after it's status 
 ### it's status based on not yet completed for the  full launch of version 1.
 
